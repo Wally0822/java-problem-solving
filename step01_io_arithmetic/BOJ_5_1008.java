@@ -7,7 +7,6 @@ public class BOJ_5_1008 {
         double B = sc.nextDouble();
 
         System.out.println(A / B);
-
         sc.close();
     }
 }

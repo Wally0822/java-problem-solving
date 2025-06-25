@@ -6,7 +6,7 @@ public class BOJ_10_2588 {
         int A = sc.nextInt();
         int B = sc.nextInt();
 
-        int B1 = B % 10; // 1의 자리
+        int B1 = B % 10; 
         int B2 = (B / 10) % 10;
         int B3 = B / 100;
         

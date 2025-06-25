@@ -8,7 +8,6 @@ public class BOJ_11_11382 {
         long C = sc.nextLong();
 
         System.out.println(A + B + C);
-
         sc.close();
     }
 }
