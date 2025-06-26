@@ -1,4 +1,4 @@
-package step03_loops;
+package step03_loop;
 
 import java.util.Scanner;
 
@@ -16,7 +16,7 @@ public class BOJ_10_2439 {
             }
             System.out.println();   
        }
-       
+
        sc.close();
    }
 }

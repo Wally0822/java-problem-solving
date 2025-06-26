@@ -1,4 +1,4 @@
-package step03_loops;
+package step03_loop;
 
 import java.util.Scanner;
 

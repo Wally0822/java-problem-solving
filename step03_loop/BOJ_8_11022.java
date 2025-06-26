@@ -1,4 +1,4 @@
-package step03_loops;
+package step03_loop;
 
 import java.util.Scanner;
 
@@ -13,7 +13,7 @@ public class BOJ_8_11022 {
             int B = sc.nextInt();
             sb.append("Case #").append(i).append(": ").append(A).append(" + ").append(B).append(" = ").append(A + B).append("\n");
         }
-        
+
         System.out.print(sb.toString());
         sc.close();
     }

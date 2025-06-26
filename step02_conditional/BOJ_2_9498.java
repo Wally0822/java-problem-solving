@@ -1,4 +1,4 @@
-package step02_conditionals;
+package step02_conditional;
 
 import java.util.Scanner;
 
