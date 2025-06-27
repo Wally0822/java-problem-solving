@@ -12,6 +12,7 @@ public class BOJ_9_2438 {
             for(int j = 0; j < i; j++){
                 stars.append("*");
             }
+            
             System.out.println(stars.toString());
         }       
 
