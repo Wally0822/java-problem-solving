@@ -6,7 +6,6 @@ public class BOJ_6_11653 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-            return;
         
         if (n == 1) return; // N이 1인 경우 출력하지 않음
 
